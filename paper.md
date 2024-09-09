@@ -43,42 +43,61 @@ In today's fast-paced project environments, effective communication and clear ov
 ## Screenshots
 
 ![Wrike Gantt Chart](https://github.com/Jahnavi1729/Showcasing-Wrike-for-Efficient-Project-Management/blob/b8c362974115da47f55e9219a06253b182dc0686/Gantt%20Chart.png)
+*Figure 1: The Gantt Chart in Wrike provides an overview of project timelines, task dependencies, and progress tracking.
 
 ![Calendar](https://github.com/Jahnavi1729/Showcasing-Wrike-for-Efficient-Project-Management/blob/5af3150a309d3ba0aa8a0da8a4311d029fa24ad7/Calendar.png)
+*Figure 2: Wrike's Calendar feature helps visualize key project dates and deadlines.
 
 ![Calendar](https://github.com/Jahnavi1729/Showcasing-Wrike-for-Efficient-Project-Management/blob/5af3150a309d3ba0aa8a0da8a4311d029fa24ad7/Calendar%202.png)
+*Figure 3: Filtered Calendar view showcasing specific tasks and milestones.
 
-![Table](https://github.com/Jahnavi1729/Showcasing-Wrike-for-Efficient-Project-Management/blob/5af3150a309d3ba0aa8a0da8a4311d029fa24ad7/Table.pngg)
+![Table](https://github.com/Jahnavi1729/Showcasing-Wrike-for-Efficient-Project-Management/blob/5af3150a309d3ba0aa8a0da8a4311d029fa24ad7/Table.png)
+*Figure 4: Table view that organizes tasks, deadlines, and assignees into an easy-to-read format.
 
 ![Wrike Dashboard](https://github.com/Jahnavi1729/Showcasing-Wrike-for-Efficient-Project-Management/blob/5af3150a309d3ba0aa8a0da8a4311d029fa24ad7/dashboard.png)
+*Figure 5: The Dashboard in Wrike provides a quick overview of team performance, workload, and project status.
 
 ![Tasks by users](https://github.com/Jahnavi1729/Showcasing-Wrike-for-Efficient-Project-Management/blob/5af3150a309d3ba0aa8a0da8a4311d029fa24ad7/tasks%20by%20users.png)
+*Figure 6: Wrike's task assignment feature, showing tasks broken down by users.
 
 ![Work Progress](https://github.com/Jahnavi1729/Showcasing-Wrike-for-Efficient-Project-Management/blob/5af3150a309d3ba0aa8a0da8a4311d029fa24ad7/Work%20Progress.png)
+*Figure 7: Work Progress chart showing ongoing tasks, completed tasks, and overall project progress.
 
 ![Performance Chart](https://github.com/Jahnavi1729/Showcasing-Wrike-for-Efficient-Project-Management/blob/5af3150a309d3ba0aa8a0da8a4311d029fa24ad7/Performance%20Chart.png)
+*Figure 8: A performance chart in Wrike that tracks the productivity of team members.
 
 ![Baseline Chart](https://github.com/Jahnavi1729/Showcasing-Wrike-for-Efficient-Project-Management/blob/5af3150a309d3ba0aa8a0da8a4311d029fa24ad7/Baseline%20Chart.png)
+*Figure 9: Baseline chart tracking planned versus actual progress on projects.
 
 ![Workload](https://github.com/Jahnavi1729/Showcasing-Wrike-for-Efficient-Project-Management/blob/5af3150a309d3ba0aa8a0da8a4311d029fa24ad7/Workload.png)
+*Figure 10: Workload management tool displaying task distribution and team capacity.
 
 ![Time log](https://github.com/Jahnavi1729/Showcasing-Wrike-for-Efficient-Project-Management/blob/5af3150a309d3ba0aa8a0da8a4311d029fa24ad7/Time%20log.png)
+*Figure 11: Time log feature for tracking the amount of time spent on tasks.
 
 ![Export Feature](https://github.com/Jahnavi1729/Showcasing-Wrike-for-Efficient-Project-Management/blob/5af3150a309d3ba0aa8a0da8a4311d029fa24ad7/Export.png)
+*Figure 12: Export options in Wrike, allowing users to download project data in different formats.
 
-![Export as RSS](https://github.com/Jahnavi1729/Showcasing-Wrike-for-Efficient-Project-Management/blob/5af3150a309d3ba0aa8a0da8a4311d029fa24ad7/Export%20as%20RSS.pngg)
+![Export as RSS](https://github.com/Jahnavi1729/Showcasing-Wrike-for-Efficient-Project-Management/blob/50c340d8039b7f68918637cb447ecc9ec0dc1b6b/Export%20as%20RSS.png)
+*Figure 13: Exporting project data as an RSS feed.
 
 ![Export as Excel](https://github.com/Jahnavi1729/Showcasing-Wrike-for-Efficient-Project-Management/blob/5af3150a309d3ba0aa8a0da8a4311d029fa24ad7/Export%20as%20Excel.png)
+*Figure 14: Exporting project data as an Excel file.
 
 ![Integrate many accounts](https://github.com/Jahnavi1729/Showcasing-Wrike-for-Efficient-Project-Management/blob/5af3150a309d3ba0aa8a0da8a4311d029fa24ad7/Integrate%20accounts.png)
+*Figure 15: Wrike integrates with multiple accounts to streamline project management across platforms.
 
 ![Integrate accounts](https://github.com/Jahnavi1729/Showcasing-Wrike-for-Efficient-Project-Management/blob/5af3150a309d3ba0aa8a0da8a4311d029fa24ad7/Integrate%20accounts%202.png)
+*Figure 16: Another view of account integration in Wrike.
 
 ![Zapier and wufoo integrated with Wrike](https://github.com/Jahnavi1729/Showcasing-Wrike-for-Efficient-Project-Management/blob/5af3150a309d3ba0aa8a0da8a4311d029fa24ad7/Zapier%20and%20woffo%20integrated%20with%20Wrike.png)
+*Figure 17: Wrike integrated with third-party services like Zapier and Wufoo for automation.
 
 ![Api Apps](https://github.com/Jahnavi1729/Showcasing-Wrike-for-Efficient-Project-Management/blob/5af3150a309d3ba0aa8a0da8a4311d029fa24ad7/API.png)
+*Figure 18: Wrike’s API for custom integrations and app access.
 
 ![Apps access](https://github.com/Jahnavi1729/Showcasing-Wrike-for-Efficient-Project-Management/blob/5af3150a309d3ba0aa8a0da8a4311d029fa24ad7/Apps%20Access.png)
+*Figure 19: App access in Wrike for enhancing functionality.
 
 ## Third-Party Integrations
 

@@ -55,6 +55,7 @@ In today's fast-paced project environments, effective communication and clear ov
 *Figure 4: Table view that organizes tasks, deadlines, and assignees into an easy-to-read format.
 
 ![Wrike Dashboard](https://github.com/Jahnavi1729/Showcasing-Wrike-for-Efficient-Project-Management/blob/5af3150a309d3ba0aa8a0da8a4311d029fa24ad7/dashboard.png)
+
 *Figure 5: The Dashboard in Wrike provides a quick overview of team performance, workload, and project status.
 
 ![Tasks by users](https://github.com/Jahnavi1729/Showcasing-Wrike-for-Efficient-Project-Management/blob/5af3150a309d3ba0aa8a0da8a4311d029fa24ad7/tasks%20by%20users.png)
@@ -76,6 +77,7 @@ In today's fast-paced project environments, effective communication and clear ov
 *Figure 11: Time log feature for tracking the amount of time spent on tasks.
 
 ![Export Feature](https://github.com/Jahnavi1729/Showcasing-Wrike-for-Efficient-Project-Management/blob/5af3150a309d3ba0aa8a0da8a4311d029fa24ad7/Export.png)
+
 *Figure 12: Export options in Wrike, allowing users to download project data in different formats.
 
 ![Export as RSS](https://github.com/Jahnavi1729/Showcasing-Wrike-for-Efficient-Project-Management/blob/50c340d8039b7f68918637cb447ecc9ec0dc1b6b/Export%20as%20RSS.png)
